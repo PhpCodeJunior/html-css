@@ -1,0 +1,194 @@
+body{
+    background-image: url("slike/background.png");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+p{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: bold;
+    font-stretch: expanded;
+}
+#wrapper {
+    width:950px;
+    margin:0 auto;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 20px;
+    padding: 15px;
+
+}
+header{
+    background-color: rgba(0,0,0,0.3);
+    padding: 5px;
+    border-radius: 20px;
+    height: 80px;
+
+
+}
+#block{
+    overflow: hidden;
+}
+#block1{
+    overflow: hidden;
+}
+.text{
+   float: left;
+    width: 310px;
+}
+.blok{
+    float: right;
+    border-radius: 15px;
+}
+.galery{
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+}
+.social{
+    float: right;
+    margin: 20px;
+    width: 50px;
+
+}
+#forma{
+    float: right;
+    margin: 19px;
+ }
+#forma input[type="text"]{
+    border-radius: 5px;
+    height: 25px;
+}
+#forma input[type="submit"]{
+    border-radius: 5px;
+    height: 30px;
+}
+.ikonica{
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    padding: 5px;
+
+}
+
+.logo{
+    padding: 4px;
+    width: 180px;
+    height: 70px;
+    border-radius: 15px;
+
+}
+.lara{
+    border-radius: 15px;
+}
+nav{
+    background-color: rgba(0,0,0,0.3);
+    height: 70px;
+    border-radius: 20px;
+}
+nav ul{
+    list-style: none;
+    font-size: 30px;
+    margin: 0 auto;
+    float: left;
+}
+nav ul li{
+    display: inline-block;
+    float: left;
+    padding: 5px;
+}
+nav ul li a{
+}
+nav ul li a:hover{
+}
+nav ul li a:active{
+}
+.icon{
+    display: none;
+    width: 60px;
+    height: 40px;
+    border-radius: 5px;
+}
+main {
+    float:left;
+    width:600px;
+    background-color: transparent;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px;
+
+}
+aside {
+    float:left;
+    width:310px;
+    background-color: transparent;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px;
+
+}
+footer {
+    background-color: rgba(0,0,0,0.3);
+    clear:both;
+    border-radius: 20px;
+    text-align: center;
+    height: 50px;
+    padding: 5px;
+
+}
+img {
+    max-width:100%;
+
+}
+
+.images {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    border-radius: 15px;
+}
+
+.images:hover {
+    border: 1px solid #777;
+}
+
+.images img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.input{
+    width: 100%;
+    height: 30px;
+    font-weight: bold;
+    color: blue;
+    font-family: fantasy;
+    font-size: 30px;
+}
+.inputS{
+    width: 100%;
+    height: 38px;
+    font-weight: bold;
+    color: blue;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
